@@ -1,4 +1,4 @@
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Proyecto Warm Up Tics 1</h3>
 <p align="left">
 </p>
 
