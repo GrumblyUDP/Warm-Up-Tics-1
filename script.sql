@@ -1,3 +1,4 @@
+create database warmUpTest
 create table AnnioF(Annio integer, primary key(Annio));
 
 create table Tabla_RIA(Annio integer,Rango integer,Inicio decimal, Final decimal, Factor decimal, Cant_Rebajar integer, primary key(Annio, Rango));
