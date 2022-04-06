@@ -45,3 +45,5 @@ insert into Usuario values('12.345.678-9','Juan Martin');
 insert into Tabla_Sueldos values('12.345.678-9',900000,900000,900000,900000,900000,900000,900000,0,0,0,0,1000000);
 
 insert into Tabla_Honorarios values('12.345.678-9',99000,5000,75000,150000,80000,0,78000,50000,50000,11000,0,500000);
+
+alter table tabla_honorarios add column id SERIAL;
